@@ -1,4 +1,4 @@
-# https://www.boot.dev/blog/computer-science/binary-search-tree-in-python
+# Code partially sourced from: https://www.boot.dev/blog/computer-science/binary-search-tree-in-python
 
 
 class Node:
